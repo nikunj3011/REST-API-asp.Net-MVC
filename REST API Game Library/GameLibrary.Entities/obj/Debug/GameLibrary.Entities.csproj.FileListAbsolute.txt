@@ -1,0 +1,12 @@
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment3\GameLibrary.Entities\bin\Debug\GameLibrary.Entities.dll
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment3\GameLibrary.Entities\bin\Debug\GameLibrary.Entities.pdb
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment3\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment3\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.dll
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment3\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.pdb
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment3\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment-4-rest-client-nikunj3011\assignment4\GameLibrary.Entities\bin\Debug\GameLibrary.Entities.dll
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment-4-rest-client-nikunj3011\assignment4\GameLibrary.Entities\bin\Debug\GameLibrary.Entities.pdb
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment-4-rest-client-nikunj3011\assignment4\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment-4-rest-client-nikunj3011\assignment4\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment-4-rest-client-nikunj3011\assignment4\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.dll
+C:\Users\MSI\Documents\itgex\IT-GEX\sem5\aspnet\assignment-4-rest-client-nikunj3011\assignment4\GameLibrary.Entities\obj\Debug\GameLibrary.Entities.pdb
